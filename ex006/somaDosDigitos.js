@@ -1,3 +1,5 @@
+// timeOut !
+
 function digitalRoot(n) {
     let digits = String(n);
     let numberInArray = String(n).split('');
