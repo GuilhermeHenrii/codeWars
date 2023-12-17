@@ -1,9 +1,9 @@
-# Lista de tarefas 
+# Codewars 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeHenrii/codeWars/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Nesse repositório irei armazenar todas as minhas soluções dos exercícios propostos na plataforma codeWars, com o intuito de melhorar minha lógica de programação, meus algoritmos e design dos meus códigos.
+Nesse repositório irei armazenar todas as minhas soluções dos exercícios propostos na plataforma Codewars, com o intuito de melhorar minha lógica de programação, meus algoritmos e design dos meus códigos.
 
 # Como executar o projeto
 ```bash
